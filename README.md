@@ -45,39 +45,39 @@ Please adhere to this project's `code of conduct`.
 ```bash
   python main.py
 ```
-![Terminal Image](/images/1.PNG)
+![Terminal Image](/images/1.png)
 
 
 # 1.  GAME 1
 ## initial tkinter application
-![2nd Image](/images/2.PNG)
+![2nd Image](/images/2.png)
 
 ### 1st GAME
 
-![3rd Image](/images/3.PNG)
+![3rd Image](/images/3.png)
 Player 2 won the 1st match
 
-![4th Image](/images/4.PNG)
+![4th Image](/images/4.png)
 Player 2 won the 2nd match
 
-![5th Image](/images/5.PNG)
+![5th Image](/images/5.png)
 Player 2 won the 3rd match and hence player 2 is the winner
 
 # 2.  GAME 2
 ## initial tkinter application
-![2nd Image](/images/2.PNG)
+![2nd Image](/images/2.png)
 
-![6th Image](/images/6.PNG)
+![6th Image](/images/6.png)
 Player 2 won the 1st match
 
-![7th Image](/images/7.PNG)
+![7th Image](/images/7.png)
 Player 1 won the 1st match
 
-![8th Image](/images/8th.PNG)
+![8th Image](/images/8th.png)
 Player 1 won the 3rd
 
-![9th Image](/images/9th.PNG)
+![9th Image](/images/9th.png)
 Player 2 won the 4th
 
-![10th Image](/images/10.PNG)
+![10th Image](/images/10.png)
 Player 2 won the 5th match and hence player 2 is the winner
