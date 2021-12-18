@@ -73,10 +73,10 @@ Player 2 won the 1st match
 ![7th Image](/images/7.png)
 Player 1 won the 1st match
 
-![8th Image](/images/8th.png)
+![8th Image](/images/8.png)
 Player 1 won the 3rd
 
-![9th Image](/images/9th.png)
+![9th Image](/images/9.png)
 Player 2 won the 4th
 
 ![10th Image](/images/10.png)
